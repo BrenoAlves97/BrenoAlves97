@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Breno, um desenvolvedor front-end focado e interessado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, eu sou o Breno, desenvolvedor front-end, focado e interessado pelo que faz!</h1>
 <p align="center">
 <a href="https://instagram.com/brenoalvess97"><img src="https://img.shields.io/badge/-Breno%20A.%20Gomes_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/brenoalves97"><img src="https://img.shields.io/badge/-Breno%20Alves-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -9,8 +9,8 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 👨🏻‍💻 &nbsp; Meu primeiro contato com programação foi em 2022, logo me interessei e comecei a imersão no mundo da tecnologia, já iniciando com a lógica de programação e posteriormente a graduação em Ánalise e Desenvolvimento de sistemas, curso que, atualmente estou no 3° período.
-- 💚 &nbsp; Conforme o tempo passa vou aprendendo e evoluíndo. Realizo cursos, visando o aprendizado de novas tecnologias, para implementar em projetos pessoais e, me preparando para quando surgir oportunidades de emprego/trabalho.
-- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web/Front-end. Utilizo a stack JavaScript (React), porém, estou estudando o NodeJS para um dia atuar em ambas as frentes.
+- 💚 &nbsp; Conforme o tempo passa vou aprendendo e evoluíndo. Realizo cursos, visando o aprendizado de novas tecnologias, para implementar em projetos pessoais e, me preparando para quando surgir oportunidades de emprego/trabalhos.
+- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento Web/Front-end. Utilizo a stack JavaScript(React). E estou estudando NodeJS para um dia atuar em ambas as frentes.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
