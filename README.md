@@ -28,6 +28,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/-Github-333333?style=flat&logo=GitHub&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=pink)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=VisualStudioCode&logoColor=blue)
 ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=Yarn&logoColor=aquablue)
 ![Npm](https://img.shields.io/badge/-Npm-333333?style=flat&logo=Npm&logoColor=green)
