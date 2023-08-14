@@ -10,7 +10,7 @@
 
 - 👨🏻‍💻 &nbsp; Meu primeiro contato com programação foi em 2022, logo me interessei e comecei a imersão no mundo da tecnologia, já iniciando com a lógica de programação e posteriormente a graduação em Ánalise e Desenvolvimento de sistemas, curso que, atualmente estou no 4° período.
 - 💚 &nbsp; Conforme o tempo passa vou aprendendo e evoluíndo. Realizo cursos, visando o aprendizado de novas tecnologias, para implementar em projetos pessoais e, me preparando para quando surgir oportunidades de emprego/trabalhos.
-- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento Web/Front-end. Utilizo a stack JavaScript(Estou estudando NodeJS para um dia atuar em ambas as frentes.
+- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento Web/Front-end. Utilizo a stack JavaScript. Estou estudando NodeJS para um dia atuar em ambas as frentes.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
