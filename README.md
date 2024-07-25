@@ -8,7 +8,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
--   👨🏻‍💻 &nbsp; Meu primeiro contato com programação foi em 2022, logo me interessei e comecei a imersão no mundo da tecnologia, já iniciando com a lógica de programação e posteriormente a graduação em Ánalise e Desenvolvimento de sistemas, graduação que concluí em 06/2024.
+-   👨🏻‍💻 &nbsp; Meu primeiro contato com programação foi em 2022, logo me interessei e comecei a imersão no mundo da tecnologia, já iniciando com a lógica de programação e posteriormente a graduação em Análise e Desenvolvimento de sistemas, graduação que concluí em 06/2024.
 -   🚀 &nbsp; Atualmente, tenho como foco na minha carreira ingressar no mercado de tecnologia, para colocar em prática o que estudei e seguir aprendendo e evoluindo!
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
